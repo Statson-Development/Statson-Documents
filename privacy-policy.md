@@ -21,6 +21,8 @@ All Data the Bot collects is listed below in categories of usage.
 
     - Your account's ID.
     - Your timezone ([Refer to Timezone Policy](https://github.com/Benzo-Fury/Statson-Documents/blob/main/sub-documents/timezone-policy.md))
+    - Notes and infractions recorded by moderators related to your behavior within the server. It's important to note that once these infractions are documented, they are permanent and cannot be deleted or removed.
+
 
 - #### **Automatically**
     Statson does not proactively gather personal data, with the exception of temporarily storing information in its cache.
