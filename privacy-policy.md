@@ -25,7 +25,7 @@ All Data the Bot collects is listed below in categories of usage.
 
 
 - #### **Automatically**
-    Statson does not proactively gather personal data, with the exception of temporarily storing information in its cache.
+    The Bot does not proactively gather personal data, with the exception of temporarily storing information in its cache.
 
     - Public Discord Data temporarily stored in a cache:
         - Messages.
