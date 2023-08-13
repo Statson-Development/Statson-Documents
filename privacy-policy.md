@@ -34,7 +34,7 @@ All Data the Bot collects is listed below in categories of usage.
 Persistent Information is housed, unencrypted in a password-protected database. Transient Information remains in the Bot's cache during its uptime. While every effort is made to ensure the safety of stored data, complete security cannot be unconditionally assured.
 
 ## Feedback Provisions
-Any feedback, be it remarks, suggestions, error reports, or otherwise, shared by You, may be adapted or utilized as seen fit by us.
+Any feedback, be it remarks, suggestions, error reports, or otherwise, shared by You, may be adapted or utilized as seen fit by me.
 
 ## Consent & Acceptance
 Interacting with the Bot or simply being a part of a Server with the Bot implies Your endorsement of and compliance with this privacy policy. Should You dissent from any provision herein, you may either remove the Bot from your Server (if you manage one) or exit the Server where the Bot operates.
