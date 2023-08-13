@@ -31,7 +31,7 @@ All Data the Bot collects is listed below in categories of usage.
         - Messages.
         - Users.
 
-Persistent Information is housed unencrypted in a password-protected database. Transient Information remains in the Bot's cache during its uptime. While every effort is made to ensure the safety of stored data, complete security cannot be unconditionally assured.
+Persistent Information is housed, unencrypted in a password-protected database. Transient Information remains in the Bot's cache during its uptime. While every effort is made to ensure the safety of stored data, complete security cannot be unconditionally assured.
 
 ## Feedback Provisions
 Any feedback, be it remarks, suggestions, error reports, or otherwise, shared by You, may be adapted or utilized as seen fit by us.
