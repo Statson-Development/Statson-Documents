@@ -8,7 +8,7 @@ The definitions below are to avoid misinterpretations and offer clearer insight 
 - **Server/Guild**: Refers to any Discord server or guild in which the Bot has been or is currently active.
 - **You/Your**: Denotes the individual owning the user account that engages with the Bot.
 - **Information**: All the details that the Bot gathers from the data You share/input on Discord.
-- **User**: Refers to another person using Statson that is not you.
+- **User**: Refers to another person using the Bot that is not you.
 
 ## Why We Gather Information
 To ensure that the Bot delivers its functions as intended, certain Information detailed in the subsequent section is gathered and stored. You retain the right to request the removal of some of the Information the Bot accumulates about you. To do so, please contact [myself](https://discordapp.com/users/671610612475756576) on Discord. Upon your request, I will inform you about what specific data can be deleted.
