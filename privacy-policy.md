@@ -1,4 +1,4 @@
-# Statson's Terms Of Service
+# Statson's Privacy Policy
 
 ## Terminology Breakdown
 The definitions below are to avoid misinterpretations and offer clearer insight to the reader. These definitions are valid throughout this document.
