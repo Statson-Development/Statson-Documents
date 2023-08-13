@@ -4,7 +4,7 @@
 The definitions below are to avoid misinterpretations and offer clearer insight to the reader. These definitions are valid throughout this document.
 > It should be noted that the following terminology is NOT case sensative!
 
-- **Bot**: Refers to the software application and/or bot account (Sambabe) governed by this privacy policy.
+- **Bot**: Refers to the software application and/or bot account (Statson) governed by this privacy policy.
 - **Server/Guild**: Refers to any Discord server or guild in which the Bot has been or is currently active.
 - **You/Your**: Denotes the individual owning the user account that engages with the Bot.
 - **Information**: All the details that the Bot gathers from the data You share/input on Discord.
