@@ -7,12 +7,13 @@ The definitions below are to avoid misinterpretations and offer clearer insight 
 - **Exclusion/Exclusions/Exclude**: The restriction that will remove all and total access from the Bot.
 - **You/Your**: Denotes the individual owning the user account that engages with the Bot.
 - **Me/Myself/My**: Refers to the owner and/or writer of this Document.
+- **Moderator**: Refers to a [Statville](https://discord.com/Statville) moderator.
 
 ## Exploiting Bugs & Scripting
 Using scripts, taking advantage of glitches, or exploiting any Bot vulnerabilities for personal or collective gain is prohibited. Engaging in such activities will result in Your Exclusion from the Bot and appropriate consequences. Not reporting observed abuse or exploitation by others will also lead to Your Exclusion.
 
 ## Termination
-I reserve the right to Exclude or restrict access to You at any time, without prior notice or reason. Such Exclusions may be permanent or temporary, at My sole discretion.
+Both I and a Moderator reserve the right to Exclude or restrict access to You at any time, without prior notice or reason. Such Exclusions may be permanent or temporary, at our sole discretion.
 
 ## Dispute Resolution
 All grievances or disputes related to the Bot or these Terms of Service will be addressed solely by Me. All decisions I make in response to such disputes are final and binding.
