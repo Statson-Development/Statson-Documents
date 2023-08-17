@@ -6,7 +6,7 @@ The definitions below are to avoid misinterpretations and offer clearer insight 
 - **Bot/Statson**: Refers to the software application and/or bot account (Statson) governed by this privacy policy.
 - **Exclusion/Exclusions/Exclude**: The restriction that will remove all and total access from the Bot.
 - **You/Your**: Denotes the individual owning the user account that engages with the Bot.
-- **Me/Myself/My/I/We/Our/Us**: Refers to the owner and/or writer of this Document.
+- **Me/Myself/My**: Refers to the owner and/or writer of this Document.
 
 ## Exploiting Bugs & Scripting
 Using scripts, taking advantage of glitches, or exploiting any Bot vulnerabilities for personal or collective gain is prohibited. Engaging in such activities will result in Your Exclusion from the Bot and appropriate consequences. Not reporting observed abuse or exploitation by others will also lead to Your Exclusion.
