@@ -32,4 +32,4 @@ Any feedback, be it remarks, suggestions, error reports, or otherwise, shared by
 For queries or apprehensions regarding our privacy stance, kindly reach out to [Myself](https://discordapp.com/users/671610612475756576) on Discord.
 
 ## Scope & Acceptance
-By using the Bot, you acknowledge and agree to be bound by both these Terms of Service and the associated Privacy Policy. These terms govern your access to and use of the Bot and all its features. If you disagree with any portion of these terms or the Privacy Policy, you are required to cease using the Bot immediately and refrain from accessing it in the future.
+By using the Bot, you acknowledge and agree to be bound by both these Terms of Service and the associated Privacy Policy. These terms govern your access to and use of the Bot and all its features. If you disagree with any portion of these terms or the Privacy Policy, you are required to cease using the Bot immediately, refrain from accessing it in the future, and contact [Myself](https://discordapp.com/users/671610612475756576) to remove Your data from My database.
