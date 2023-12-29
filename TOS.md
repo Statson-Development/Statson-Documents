@@ -8,9 +8,13 @@ The definitions below are to avoid misinterpretations and offer clearer insight 
 - **You/Your**: Denotes the individual owning the user account that engages with the Bot.
 - **Me/Myself/My**: Refers to the owner and/or writer of this Document.
 - **Moderator**: Refers to a member of the [Statville](https://discord.gg/statville) Discord server with the moderator role or a member with the SWOC Member role.
+- **SWOC**: Refers to a member of the [Statville](https://discord.gg/statville) Discord server with the SWOC or Senior SWOC roles.
 
 ## Exploiting Bugs & Scripting
 Using scripts, taking advantage of glitches, or exploiting any Bot vulnerabilities for personal or collective gain is prohibited. Engaging in such activities will result in Your Exclusion from the Bot and appropriate consequences. Not reporting observed abuse or exploitation by others will also lead to Your Exclusion.
+
+## Inquiries from SWOC
+A SWOC member may request specific information related to anything that could affect your use of Statson, to ensure policy adherence. You are required to respond accurately and promptly, providing necessary screenshots or documents. Non-compliance or providing false information may lead to your exclusion. Rest assured, this information is strictly for internal use and will only be shared with myself or other SWOC Members.
 
 ## Termination
 Both I and a Moderator reserve the right to Exclude or restrict access to You at any time, without prior notice or reason. Such Exclusions may be permanent or temporary, at our sole discretion.
